@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pjlau
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning programming in Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any electrical or software engineer position
 - 📫 jimpikkin (a t) gmail (dot) com
 
 <!---
