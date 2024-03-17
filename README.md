@@ -1,7 +1,7 @@
 - 👋 Hi, welcome to @pjlau's GitHub profile.
-- 👀 I’m a data science enthusiast.
+- 👀 I’m a software developmemnt enthusiast.
 - 🌱 I have work experiences in SQL, Python, C#. I know R.
-- 💞️ I’m looking to collaborate on any data, software, or eletrical engineer position.
+- 💞️ I’m looking to collaborate on any software or eletrical engineer position.
 - 📫 Shoot me a message at:
 
 <!---
