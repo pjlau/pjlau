@@ -1,6 +1,6 @@
 - 👋 Welcome. This is @pjlau.
 - 👀 Enthusiastic in data science.
-- 🌱 Working with Web App applications.
+- 🌱 Working on Web App applications.
 - 💞️ Interested in ML Modeling, Web App development.
 - 📫 Contact: [pjlau](mailto:jimpikkin@gmail.com?subject=[Hello])
 
