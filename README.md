@@ -1,8 +1,8 @@
-- 👋 Hi, welcome to @pjlau's GitHub profile.
-- 👀 I’m a ML/AI and data visualization enthusiast.
-- 🌱 I have experience in Python, Java, JavaScript, SQL. Techniques: Rest API, Git, CI/CD.
-- 💞️ I’m looking forward to collaboration on ML Modeling, Web App development.
-- 📫 Shoot me a message at: [pjlau](mailto:jimpikkin@gmail.com?subject=[Hello])
+- 👋 Welcome. This is @pjlau.
+- 👀 Enthusiastic in data science.
+- 🌱 Working with Web App applications.
+- 💞️ Interested in ML Modeling, Web App development.
+- 📫 Contact: [pjlau](mailto:jimpikkin@gmail.com?subject=[Hello])
 
 ## 🛠️ Technical Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
