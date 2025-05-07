@@ -4,6 +4,10 @@
 - 💞️ I’m looking forward to collaboration on ML Modeling, Web App development.
 - 📫 Shoot me a message at: [pjlau](mailto:jimpikkin@gmail.com?subject=[Hello])
 
+## 🛠️ Technical Skills
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 <!---
 pjlau/pjlau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
